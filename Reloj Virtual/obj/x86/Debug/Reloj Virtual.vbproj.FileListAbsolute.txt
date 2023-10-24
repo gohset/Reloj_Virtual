@@ -1,0 +1,20 @@
+D:\VISUAL STUDIO PROGRAMACION IV\Reloj Virtual\Reloj Virtual\bin\Debug\Reloj Virtual.exe
+D:\VISUAL STUDIO PROGRAMACION IV\Reloj Virtual\Reloj Virtual\bin\Debug\Reloj Virtual.pdb
+D:\VISUAL STUDIO PROGRAMACION IV\Reloj Virtual\Reloj Virtual\bin\Debug\Reloj Virtual.xml
+D:\VISUAL STUDIO PROGRAMACION IV\Reloj Virtual\Reloj Virtual\obj\x86\Debug\Reloj_Virtual.Form1.resources
+D:\VISUAL STUDIO PROGRAMACION IV\Reloj Virtual\Reloj Virtual\obj\x86\Debug\Reloj_Virtual.Resources.resources
+D:\VISUAL STUDIO PROGRAMACION IV\Reloj Virtual\Reloj Virtual\obj\x86\Debug\Reloj Virtual.vbproj.GenerateResource.Cache
+D:\VISUAL STUDIO PROGRAMACION IV\Reloj Virtual\Reloj Virtual\obj\x86\Debug\Reloj Virtual.exe
+D:\VISUAL STUDIO PROGRAMACION IV\Reloj Virtual\Reloj Virtual\obj\x86\Debug\Reloj Virtual.xml
+D:\VISUAL STUDIO PROGRAMACION IV\Reloj Virtual\Reloj Virtual\obj\x86\Debug\Reloj Virtual.pdb
+E:\VISUAL STUDIO PROGRAMACION IV\Reloj Virtual\Reloj Virtual\obj\x86\Debug\Reloj Virtual.exe
+E:\VISUAL STUDIO PROGRAMACION IV\Reloj Virtual\Reloj Virtual\obj\x86\Debug\Reloj Virtual.xml
+E:\VISUAL STUDIO PROGRAMACION IV\Reloj Virtual\Reloj Virtual\obj\x86\Debug\Reloj Virtual.pdb
+E:\VISUAL STUDIO PROGRAMACION IV\Reloj Virtual\Reloj Virtual\bin\Debug\Reloj Virtual.exe
+E:\VISUAL STUDIO PROGRAMACION IV\Reloj Virtual\Reloj Virtual\bin\Debug\Reloj Virtual.pdb
+E:\VISUAL STUDIO PROGRAMACION IV\Reloj Virtual\Reloj Virtual\bin\Debug\Reloj Virtual.xml
+E:\VISUAL STUDIO PROGRAMACION IV\Reloj Virtual\Reloj Virtual\obj\x86\Debug\Reloj_Virtual.Form1.resources
+E:\VISUAL STUDIO PROGRAMACION IV\Reloj Virtual\Reloj Virtual\obj\x86\Debug\Reloj_Virtual.Resources.resources
+E:\VISUAL STUDIO PROGRAMACION IV\Reloj Virtual\Reloj Virtual\obj\x86\Debug\Reloj Virtual.vbproj.GenerateResource.Cache
+E:\VISUAL STUDIO PROGRAMACION IV\Reloj Virtual\Reloj Virtual\obj\x86\Debug\Reloj Virtual.vbproj.AssemblyReference.cache
+E:\VISUAL STUDIO PROGRAMACION IV\Reloj Virtual\Reloj Virtual\obj\x86\Debug\Reloj Virtual.vbproj.CoreCompileInputs.cache
